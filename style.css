@@ -1,3 +1,36 @@
 /* .button{text-align: center;} */
 
+h1{text-align: center;
+color:#7b57bbff;
+font-family: "Sofia", sans-serif;
 
+  }
+
+.button{padding-top: 25px;
+    
+    text-align: center;
+}
+
+p{font-size: 15px;
+    padding-top: 15px;
+    color:#9e2777;
+    font-family: 'Cookie';font-size: 22px;
+}
+    
+.x{ color:#7b57bbff;}
+
+.one, .two{font-size: 15px;
+    font-size: 15px;
+    font-family: 'Cookie';font-size: 22px;
+}
+
+.x{text-align: center;
+    font-family: "Sofia", sans-serif;
+    }
+
+    .button{text-align: center;
+        font-family: "Sofia", sans-serif;
+
+    }
+
+body{background-color:#c7e2f0ff ;}
