@@ -16,30 +16,20 @@ let x = document.querySelector(".x");
 console.log(x);
 
 
-
-
 if (one <=30 && two === "Short") {
 x.innerHTML ="You are Squidward";
-storyImage.src="squidward.png";
-} else if(){
+storyImage.src="squidward.png";}
 
-    
-}
+else if(one <=30 && two==="High")
+{x.innerHTML="You are Spongebob";
+storyImage.src="spongebob.webp";}
 
+else if (one>30 && two==="Short") 
+{x.innerHTML="You are krabs";
+storyImage.src="krabs.png";}
 
-// if (one==="30"&&two==="High")  
-// {message.innerHTML="You are Spongebob";}
-// storyImage.src="spongebob.webp";
-
-// if (one==="40"&&two==="Short")  
-// {message.innerHTML="You mk";}
-// storyImage.src="krabs.png";
-
-// if (one==="40"&&two==="High")  
-// {message.innerHTML="You are ms puff";}
-// storyImage.src="puff.jpg";
-// }
-
-
+else if (one>30 && two==="High") 
+{x.innerHTML="You are ms puff";
+storyImage.src="puff.jpg";}
 
 });
