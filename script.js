@@ -41,6 +41,7 @@ else if (one>18 && two==="High")
 storyImage.src="puff.jpg";}
 
 
+
 else 
 {x.innerHTML="Looks like we've encountered an error, please try again ";
 storyImage.src="error.png";
