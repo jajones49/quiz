@@ -25,19 +25,19 @@ console.log(x);
 
 
 if (one <=18 && two === "Short") {
-x.innerHTML ="You match the charateristics of Squidward";
+x.innerHTML ="You match the charateristics of Squidward 🐙";
 storyImage.src="squidward.jpg";}
 
 else if(one <=18 && two==="High")
-{x.innerHTML="You  match the charateristics of Spongebob";
+{x.innerHTML="You  match the charateristics of Spongebob 🧽";
 storyImage.src="spongebob.webp";}
 
 else if (one>18 && two==="Short") 
-{x.innerHTML="You match the charateristics of krabs";
+{x.innerHTML="You match the charateristics of Mr. Krabs 🦀";
 storyImage.src="krabs.jpg";}
 
 else if (one>18 && two==="High") 
-{x.innerHTML="You match the charateristics of ms puff";
+{x.innerHTML="You match the charateristics of Mrs. Puff 🐡";
 storyImage.src="puff.jpg";}
 
 
